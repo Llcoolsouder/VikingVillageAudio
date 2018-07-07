@@ -34,3 +34,8 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# FMOD
+FMOD_VikingVillage/.cache
+FMOD_VikingVillage/.unsaved
+FMOD_VikingVillage/.user
